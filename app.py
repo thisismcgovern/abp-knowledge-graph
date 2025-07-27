@@ -1,1 +1,3 @@
-print("Hello world")0
+print("Hello world")
+
+print("This is a test script.")

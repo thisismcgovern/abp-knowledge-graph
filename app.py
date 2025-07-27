@@ -1,8 +1,5 @@
 print("Hello world")
 
-print("This is a test script.")
-
-def work():
+def declare():
+    print("This is a test script.")
     print("Working on the spaceship project.")
-
-work()
